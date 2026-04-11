@@ -35,5 +35,5 @@ title: About
   </ul>
 
   <h2>Get in touch:</h2>
-  <p>Have a tip, a lead, or want to collaborate? <a href="/contact" style="color:var(--accent);">Reach out here.</a> PGP key available on request for sensitive disclosures.</p>
+  <p>Have a tip, a lead, or want to collaborate? <a href="/contact" style="color:var(--accent);">Reach out here.</a> </p>
 </div>
