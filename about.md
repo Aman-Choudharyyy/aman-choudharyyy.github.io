@@ -3,12 +3,6 @@ layout: default
 title: About
 ---
 
-<div class="page-hero">
-  <div class="page-hero-inner">
-    <h1>Aman</h1>
-  </div>
-</div>
-
 <div class="about-page">
   <div class="about-cover">POINT-0</div>
 
