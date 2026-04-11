@@ -5,9 +5,9 @@ title: Contact
 
 <div class="contact-page">
   <h1>Contact.</h1>
-  <p class="contact-desc">Have a tip, a lead, a CVE you want analyzed, or want to collaborate? Drop a message. PGP key available on request for sensitive disclosures.</p>
+  <p class="contact-desc">Have a tip, a lead, a CVE you want analyzed, or want to collaborate? Drop a message.</p>
 
-  <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <form action="https://formspree.io/f/mjgpnydo" method="POST">
     <div class="form-group">
       <label class="form-label">Name</label>
       <input type="text" name="name" class="form-control" placeholder="Your name or handle" required />
