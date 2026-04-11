@@ -1,0 +1,22 @@
+title: "Point-0"
+tagline: "Dissecting Cyber Threats. One Incident at a Time."
+author: "Aman"
+email: ""
+description: "Point-0 is a cybersecurity blog by Aman covering threat analysis, zero-days, malware autopsies, and the latest in cyber intelligence."
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
